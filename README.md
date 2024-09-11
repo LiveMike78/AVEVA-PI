@@ -12,3 +12,5 @@ None of these files are endorsed by AVEVA. Use as your own risk.
     - Stale: PI Point has no good data recently
     - Good: PI Point has good data recently
  
+- GetWebId.json
+  Node-RED, a function node to convert an AF path payload into a WebId. For use with the PI Web API.
