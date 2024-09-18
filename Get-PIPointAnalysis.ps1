@@ -33,7 +33,7 @@ function Get-IsGood {
         $pivalue
     )
 
-    # Get-IsGood returns True when the value is Shutdown or Scan Off
+    # Get-IsGood returns False when the value is Shutdown or Scan Off
     # pass a PIValue object
     # will return a boolean; true = good, false = bad
 
